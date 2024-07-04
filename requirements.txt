@@ -1,0 +1,14 @@
+gradio
+transformers
+accelerate
+langchain
+bitsandbytes
+sentence_transformers
+faiss-cpu
+PyPDF
+langchain-community
+langchain-huggingface
+langchain_experimental
+unstructured[all-docs]
+langchain-openai
+python-dotenv
